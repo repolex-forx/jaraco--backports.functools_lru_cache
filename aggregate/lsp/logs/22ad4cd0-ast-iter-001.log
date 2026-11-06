@@ -1,0 +1,7 @@
+[2026-11-06T02:03:56Z] === AST ITERATION 1 START | repo=jaraco/backports.functools_lru_cache sha=22ad4cd0 ===
+[2026-11-06T02:03:56Z] [iter=1] PHASE START: ast repo=jaraco/backports.functools_lru_cache sha=22ad4cd0
+[2026-11-06T02:03:56Z] [iter=1] Building AST aggregate chunks
+[2026-11-06T02:03:57Z] [iter=1] AST chunks built count=1 triples=9400
+[2026-11-06T02:03:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/22ad4cd0ec15645ed75c1ee5e1d664a25b8e5795/.complete
+[2026-11-06T02:03:57Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-06T02:03:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
