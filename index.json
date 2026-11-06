@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "backports.functools_lru_cache",
+  "versions": [
+    {
+      "commit": "22ad4cd0ec15645ed75c1ee5e1d664a25b8e5795",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:05:10.070172+00:00"
+    }
+  ]
+}
