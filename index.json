@@ -3,6 +3,11 @@
   "repo": "backports.functools_lru_cache",
   "versions": [
     {
+      "commit": "61ffe6dd9abd8f742b3c9dfa632d61c3db0605d8",
+      "tag": "v2.0.0",
+      "parsed_at": "2026-11-22T00:43:52.725111+00:00"
+    },
+    {
       "commit": "22ad4cd0ec15645ed75c1ee5e1d664a25b8e5795",
       "tag": "",
       "parsed_at": "2026-11-06T02:05:10.070172+00:00"
